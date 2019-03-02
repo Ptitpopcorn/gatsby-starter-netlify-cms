@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/chrome_2018-11-30_19-15-47.png
+image: >-
+  https://raw.githubusercontent.com/Ptitpopcorn/gatsby-starter-netlify-cms/master/static/img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
